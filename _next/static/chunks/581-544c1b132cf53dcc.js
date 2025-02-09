@@ -238,7 +238,7 @@
                         href: "/",
                         className: "text-16 font-medium uppercase",
                         children: [
-                          (0, r.jsx)(o.Z, { children: "UNTYE" }),
+                          (0, r.jsx)(o.Z, { children: "Harini Rao" }),
                           (0, r.jsx)("sup", { children: "\xa9" }),
                         ],
                       }),
@@ -329,7 +329,7 @@
                                       className:
                                         "text-16 font-medium uppercase",
                                       children: [
-                                        (0, r.jsx)(o.Z, { children: "UNTYE" }),
+                                        (0, r.jsx)(o.Z, { children: "Harini Rao" }),
                                         (0, r.jsx)("sup", { children: "\xa9" }),
                                       ],
                                     }),
@@ -457,7 +457,7 @@
         return (0, r.jsxs)(r.Fragment, {
           children: [
             (0, r.jsx)(i(), {
-              children: (0, r.jsx)("title", { children: "UNTYE" }),
+              children: (0, r.jsx)("title", { children: "Harini Rao" }),//title
             }),
             (0, r.jsx)(m.Z, {}),
             (0, r.jsx)(v, {

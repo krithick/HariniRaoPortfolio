@@ -900,12 +900,14 @@
                                     (0, s.jsx)("span", {
                                       className:
                                         "block duration-500 ease-out group-hover:-translate-y-full",
-                                      children: "Design Director",
+                                      // children: "Design Director",
+                                      children: "Product Designer",
                                     }),
                                     (0, s.jsx)("span", {
                                       className:
                                         "absolute top-0 left-0 translate-y-full text-green duration-500 ease-out group-hover:translate-y-0",
-                                      children: "Self Acclaimed",
+                                      children: "UX Bootcamp Collective Writer",
+                                      // children: "Self Acclaimed",UX Bootcamp Collective Writer
                                     }),
                                   ],
                                 }),
@@ -993,7 +995,7 @@
                                       className:
                                         "skill-para mb-0 md:max-w-[70%]",
                                       children:
-                                        "As a passionate Digital Designer and independent Design Director, I am committed to creating visual narratives that engage and inspire.",
+                                        "Product Designer with 5 years of experience in UX Design and UX Writing, specializing in user-centric design, from intuitive mobile and web apps to immersive AR/VR experiences.",
                                     }),
                                   }),
                                   (0, s.jsx)("div", {
@@ -1036,16 +1038,16 @@
                                         t
                                       );
                                     }),
-                                  }),
+                                  }),//page 1 headings
                                   [
-                                    { id: 0, headingTitle: "Web Designer" },
+                                    { id: 0, headingTitle: "Web And Mobile Experiences" },
                                     {
                                       id: 1,
-                                      headingTitle: "Interactive Design",
+                                      headingTitle: "Immersive Experiences",
                                     },
                                     {
                                       id: 2,
-                                      headingTitle: "Creative Direction",
+                                      headingTitle: "UX Writing",
                                     },
                                   ].map((e, t) => {
                                     let { headingTitle: i } = e;
@@ -1123,7 +1125,7 @@
                           }),
                         ],
                       }),
-                      (0, s.jsx)("div", {
+                      (0, s.jsx)("div", {///the scrolling animatioon below
                         className: "pseudo-top-border relative",
                         children: (0, s.jsx)("div", {
                           className: "marquee-text-wrapper",
@@ -1139,17 +1141,17 @@
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "UNTYE",
+                                    children: "Harini Rao",
                                   }),
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "UNTYE",
+                                    children: "Harini Rao",
                                   }),
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "UNTYE",
+                                    children: "Harini Rao",
                                   }),
                                 ],
                               }),
@@ -1161,17 +1163,17 @@
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "UNTYE",
+                                    children: "Harini Rao",
                                   }),
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "UNTYE",
+                                    children: "Harini Rao",
                                   }),
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "UNTYE",
+                                    children: "Harini Rao",
                                   }),
                                 ],
                               }),
@@ -1197,7 +1199,7 @@
                               className: "flex w-full justify-between md:w-2/5",
                               children: (0, s.jsx)("p", {
                                 className: "mb-0 text-12 md:text-white",
-                                children: "Based in Mumbai",
+                                children: "Based in London",
                               }),
                             }),
                           }),
@@ -1215,22 +1217,14 @@
                                 className: "vertical-orientation-text v-text-1",
                                 children: (0, s.jsxs)("p", {
                                   className: "text-24 uppercase",
-                                  children: [
+                                  children: [//that vertical scroll
                                     (0, s.jsx)("span", {
                                       className: "my-2",
                                       children: "Portfolio",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
-                                    }),
-                                    (0, s.jsx)("span", {
-                                      className: "my-2",
-                                      children: "Portfolio",
-                                    }),
-                                    (0, s.jsx)("span", {
-                                      className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2",
@@ -1238,7 +1232,7 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2",
@@ -1246,7 +1240,7 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2",
@@ -1254,7 +1248,15 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
+                                    }),
+                                    (0, s.jsx)("span", {
+                                      className: "my-2",
+                                      children: "Portfolio",
+                                    }),
+                                    (0, s.jsx)("span", {
+                                      className: "my-2 text-green",
+                                      children: "HariniRao",
                                     }),
                                   ],
                                 }),
@@ -1268,7 +1270,7 @@
                                   children: [
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2",
@@ -1276,7 +1278,7 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2",
@@ -1284,7 +1286,7 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2",
@@ -1292,7 +1294,7 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2",
@@ -1300,7 +1302,7 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2",
@@ -1308,7 +1310,7 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className: "my-2 text-green",
-                                      children: "UNTYE",
+                                      children: "HariniRao",
                                     }),
                                   ],
                                 }),
@@ -1331,7 +1333,7 @@
                                       "I'm ",
                                       (0, s.jsx)("span", {
                                         className: "text-green",
-                                        children: "UNTYE",
+                                        children: "Harini Rajeshwara Rao",// main name
                                       }),
                                     ],
                                   }),
@@ -1339,7 +1341,7 @@
                                     className:
                                       "parallax-text text-18 font-medium uppercase md:text-24",
                                     children:
-                                      "A dedicated web designer and Design director with over 8 years of experience in the industry.",
+                                      "I began my career as a web copywriter,but it wasn’t long before I discovered my true calling in UX design.Over the past 5 years,I’ve dedicated each day to deepening my understanding of design,human perception and behavior. Ensuring every touchpoint is functional and brings value to the user is my constant intellectual stimulation.",
                                   }),
                                 ],
                               }),
@@ -1356,7 +1358,7 @@
                                       children: "Let's design-dive!",
                                     }),
                                     " ",
-                                    "Explore selected projects.",
+                                    "Explore The Best of My Works.",
                                   ],
                                 }),
                               }),
@@ -1396,20 +1398,20 @@
                                   className: "w-3/5",
                                   children: (0, s.jsx)("p", {
                                     className: "mb-0 text-12",
-                                    children: "Selected projects",
+                                    children: "Best of My Works",
                                   }),
                                 }),
                                 (0, s.jsx)("div", {
                                   className: "w-2/5",
                                   children: (0, s.jsx)("p", {
                                     className: "mb-0 text-right text-12",
-                                    children: "2016-2023",
+                                    children: "2019-2025",
                                   }),
                                 }),
                               ],
                             }),
                           }),
-                        }),
+                        }),//projects area
                         (0, s.jsx)("div", {
                           className: "project-lists h-full overflow-auto",
                           children: (0, s.jsxs)("div", {
@@ -1418,29 +1420,29 @@
                               [
                                 {
                                   id: 0,
-                                  projectName: "Flexibrid",
-                                  projectYear: "2022",
+                                  projectName: "SpeakProVR",
+                                  projectYear: "2025",
                                   projectFeatures:
-                                    "Website Design, Creative Direction, Interaction",
+                                    "Virtual Reality, Generative AI, Speech-To-Text, Text-To-Speech",
                                   projectThumb: "/img/flexibrid.webp",
                                   mobileprojectThumb: "/img/mob-flexibrid.webp",
                                   projectUrl: "/case-study/flexibrid",
                                 },
                                 {
                                   id: 1,
-                                  projectName: "Interio",
-                                  projectYear: "2022",
+                                  projectName: "Interactive AR Learning Companion",
+                                  projectYear: "2024",
                                   projectFeatures:
-                                    "Website Design, Creative Direction, Interaction",
+                                    "Augmented Reality, Generative AI, Speech-To-Text, Text-To-Speech",
                                   projectThumb: "/img/interiro.webp",
                                   mobileprojectThumb: "/img/mob-interiro.webp",
                                   projectUrl: "/case-study/interio",
                                 },
                                 {
                                   id: 2,
-                                  projectName: "Plantastic Store",
-                                  projectYear: "2022",
-                                  projectFeatures: "Website Design, Branding",
+                                  projectName: "Phonepe Budget Pro",
+                                  projectYear: "2024",
+                                  projectFeatures: "Mobile App, Interaction Design, WCAG 2.1",
                                   projectThumb: "/img/plantastic.webp",
                                   mobileprojectThumb:
                                     "/img/mob-plantastic.webp",
@@ -1449,10 +1451,10 @@
                                 },
                                 {
                                   id: 3,
-                                  projectName: "NumberDekho",
+                                  projectName: "ZIVA",
                                   projectYear: "2023",
                                   projectFeatures:
-                                    "Website Design, Product Design, Mobile app",
+                                    "Workflow Automation, Design System, Interaction Design",
                                   projectThumb: "/img/numberdekho.webp",
                                   mobileprojectThumb:
                                     "/img/mob-numberdekho.webp",
@@ -1461,46 +1463,46 @@
                                 },
                                 {
                                   id: 4,
-                                  projectName: "MKSSS",
-                                  projectYear: "2022",
+                                  projectName: "ASTRA Insure-tech",
+                                  projectYear: "2023",
                                   projectFeatures:
-                                    "Website Design, Creative Direction, Interaction",
+                                    "Workflow Automation, Interaction Design, User Retention",
                                   projectThumb: "/img/mksss.webp",
                                   mobileprojectThumb: "/img/mob-mksss.webp",
                                   projectUrl: "#!",
                                   cursorText: "COMING SOON",
-                                },
-                                {
-                                  id: 5,
-                                  projectName: "Mariox",
-                                  projectYear: "2024",
-                                  projectFeatures:
-                                    "Website Design, Creative Direction, Interaction",
-                                  projectThumb: "/img/mariox.webp",
-                                  mobileprojectThumb: "/img/mob-mariox.webp",
-                                  projectUrl: "#!",
-                                  cursorText: "COMING SOON",
-                                },
-                                {
-                                  id: 6,
-                                  projectName: "StackCMS",
-                                  projectYear: "2022",
-                                  projectFeatures: "Website Design",
-                                  projectThumb: "/img/stackcms.webp",
-                                  mobileprojectThumb: "/img/mob-stackcms.webp",
-                                  projectUrl: "#!",
-                                  cursorText: "COMING SOON",
-                                },
-                                {
-                                  id: 7,
-                                  projectName: "Starkmedia",
-                                  projectYear: "2023",
-                                  projectFeatures: "Website Design",
-                                  projectThumb: "/img/stark.webp",
-                                  mobileprojectThumb: "/img/mob-stark.webp",
-                                  projectUrl: "#!",
-                                  cursorText: "COMING SOON",
-                                },
+                                },//more projects
+                                // {
+                                //   id: 5,
+                                //   projectName: "Mariox",
+                                //   projectYear: "2024",
+                                //   projectFeatures:
+                                //     "Website Design, Creative Direction, Interaction",
+                                //   projectThumb: "/img/mariox.webp",
+                                //   mobileprojectThumb: "/img/mob-mariox.webp",
+                                //   projectUrl: "#!",
+                                //   cursorText: "COMING SOON",
+                                // },
+                                // {
+                                //   id: 6,
+                                //   projectName: "StackCMS",
+                                //   projectYear: "2022",
+                                //   projectFeatures: "Website Design",
+                                //   projectThumb: "/img/stackcms.webp",
+                                //   mobileprojectThumb: "/img/mob-stackcms.webp",
+                                //   projectUrl: "#!",
+                                //   cursorText: "COMING SOON",
+                                // },
+                                // {
+                                //   id: 7,
+                                //   projectName: "Starkmedia",
+                                //   projectYear: "2023",
+                                //   projectFeatures: "Website Design",
+                                //   projectThumb: "/img/stark.webp",
+                                //   mobileprojectThumb: "/img/mob-stark.webp",
+                                //   projectUrl: "#!",
+                                //   cursorText: "COMING SOON",
+                                // },
                               ].map((i) => {
                                 let {
                                   id: r,
@@ -1691,9 +1693,11 @@
                               children: (0, s.jsx)("div", {
                                 className: "h-full w-full overflow-hidden",
                                 children: (0, s.jsx)("img", {
-                                  src: "/img/sanni-sahil-3.webp",
+                                  src: "/img/me_2 _final.webp",
+                                  
+                                  // src: "/img/me_2.jpeg",
                                   className:
-                                    "scale-img h-full w-full object-cover",
+                                    "scale-img h-full w-80 object-cover",// CHANGING THEIMAGE 
                                   alt: "",
                                 }),
                               }),
@@ -1854,7 +1858,7 @@
                                           href: "/",
                                           className:
                                             "mb-2 inline-block text-16 font-medium uppercase xl:text-para",
-                                          children: "UNTYE",
+                                          children: "Harini Rao",//last page name
                                         }),
                                         (0, s.jsxs)("p", {
                                           className: "xl:max-w-[60%]",
