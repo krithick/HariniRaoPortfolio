@@ -1424,9 +1424,9 @@
                                   projectYear: "2025",
                                   projectFeatures:
                                     "Virtual Reality, Generative AI, Speech-To-Text, Text-To-Speech",
-                                  projectThumb: "/img/flexibrid.webp",
+                                  projectThumb: "/img/SpeakProVR.png",
                                   mobileprojectThumb: "/img/mob-flexibrid.webp",
-                                  projectUrl: "/case-study/flexibrid",
+                                  projectUrl: "https://medium.com/",
                                 },
                                 {
                                   id: 1,
@@ -1434,20 +1434,22 @@
                                   projectYear: "2024",
                                   projectFeatures:
                                     "Augmented Reality, Generative AI, Speech-To-Text, Text-To-Speech",
-                                  projectThumb: "/img/interiro.webp",
+                                  projectThumb: "/img/Interactive_AR.png",
                                   mobileprojectThumb: "/img/mob-interiro.webp",
-                                  projectUrl: "/case-study/interio",
+                                  projectUrl: "#!",
+                                  cursorText: "COMING SOON",
                                 },
                                 {
                                   id: 2,
                                   projectName: "Phonepe Budget Pro",
                                   projectYear: "2024",
                                   projectFeatures: "Mobile App, Interaction Design, WCAG 2.1",
-                                  projectThumb: "/img/plantastic.webp",
+                                  projectThumb: "/img/PhonePe.png",
                                   mobileprojectThumb:
                                     "/img/mob-plantastic.webp",
                                   projectUrl:
-                                    "https://www.behance.net/gallery/172966917/Plantastic-Store-Branding-and-UI",
+                                    "#!",
+                                    cursorText: "COMING SOON",
                                 },
                                 {
                                   id: 3,
@@ -1455,7 +1457,7 @@
                                   projectYear: "2023",
                                   projectFeatures:
                                     "Workflow Automation, Design System, Interaction Design",
-                                  projectThumb: "/img/numberdekho.webp",
+                                  projectThumb: "/img/ZIVA.png",
                                   mobileprojectThumb:
                                     "/img/mob-numberdekho.webp",
                                   projectUrl: "#!",
@@ -1467,7 +1469,7 @@
                                   projectYear: "2023",
                                   projectFeatures:
                                     "Workflow Automation, Interaction Design, User Retention",
-                                  projectThumb: "/img/mksss.webp",
+                                  projectThumb: "/img/astra.png",
                                   mobileprojectThumb: "/img/mob-mksss.webp",
                                   projectUrl: "#!",
                                   cursorText: "COMING SOON",
@@ -1586,6 +1588,7 @@
                                             (0, s.jsx)(m(), {
                                               scroll: !1,
                                               href: c,
+                                              target:"_blank",
                                               className: "block",
                                               children: (0, s.jsxs)("picture", {
                                                 children: [
