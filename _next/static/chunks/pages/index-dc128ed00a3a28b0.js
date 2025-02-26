@@ -899,14 +899,14 @@
                                   children: [
                                     (0, s.jsx)("span", {
                                       className:
-                                        "block duration-500 ease-out group-hover:-translate-y-full",
-                                      // children: "Design Director",
-                                      children: "Product Designer",
+                                        "block duration-500 ease-out group-hover:-translate-y-full invisible" ,//invisible product 
+                                      // children: "Product Designer",
+                                      children: "H",
                                     }),
                                     (0, s.jsx)("span", {
                                       className:
                                         "absolute top-0 left-0 translate-y-full text-green duration-500 ease-out group-hover:translate-y-0",
-                                      children: "UX Bootcamp Collective Writer",
+                                      // children: "UX Bootcamp Collective Writer",
                                       // children: "Self Acclaimed",UX Bootcamp Collective Writer
                                     }),
                                   ],
@@ -918,7 +918,7 @@
                                   (0, s.jsx)("p", {
                                     className:
                                       "mb-0 hidden flex-1 text-12 text-green md:block md:text-14",
-                                    children: "Me #01",
+                                    // children: "Me #01",
                                   }),
                                   (0, s.jsxs)("div", {
                                     className:
@@ -929,7 +929,7 @@
                                           " absolute right-0 top-0 left-0 w-full text-right",
                                         children: (0, s.jsx)("span", {
                                           className: "top-anim-chars uppercase",
-                                          children: "HOLA",
+                                          children: "Product Designer",/// aniamted content
                                         }),
                                       }),
                                       (0, s.jsx)("div", {
@@ -937,7 +937,7 @@
                                           " absolute right-0 top-0 left-0 w-full text-right",
                                         children: (0, s.jsx)("span", {
                                           className: "top-anim-chars uppercase",
-                                          children: "NAMASTE",
+                                          children: "UX Collective Bootcamp Writer",
                                         }),
                                       }),
                                       (0, s.jsx)("div", {
@@ -945,7 +945,7 @@
                                           " absolute right-0 top-0 left-0 w-full text-right",
                                         children: (0, s.jsx)("span", {
                                           className: "top-anim-chars uppercase",
-                                          children: "HELLO",
+                                          children: "XR Designer",
                                         }),
                                       }),
                                       (0, s.jsx)("div", {
@@ -953,7 +953,7 @@
                                           " absolute right-0 top-0 left-0 w-full text-right",
                                         children: (0, s.jsx)("span", {
                                           className: "top-anim-chars uppercase",
-                                          children: "Bonjour",
+                                          children: "Interaction Designer",
                                         }),
                                       }),
                                       (0, s.jsx)("div", {
@@ -1081,7 +1081,7 @@
                                           (0, s.jsx)(p.Z, {
                                             className: "font-medium uppercase",
                                             children:
-                                              "Start your digital voyage with a scroll",
+                                              "Explore More About Me With A Scroll",///digital scroll area
                                           }),
                                           (0, s.jsx)("span", {
                                             className: "rotate-90 md:rotate-0",
@@ -1426,7 +1426,7 @@
                                     "Virtual Reality, Generative AI, Speech-To-Text, Text-To-Speech",
                                   projectThumb: "/img/SpeakProVR.png",
                                   mobileprojectThumb: "/img/mob-flexibrid.webp",
-                                  projectUrl: "https://medium.com/",
+                                  projectUrl: "https://medium.com/@harinirajeshwararao/speakpro-vr-a7263cbe94be",
                                 },
                                 {
                                   id: 1,
@@ -1436,8 +1436,8 @@
                                     "Augmented Reality, Generative AI, Speech-To-Text, Text-To-Speech",
                                   projectThumb: "/img/Interactive_AR.png",
                                   mobileprojectThumb: "/img/mob-interiro.webp",
-                                  projectUrl: "#!",
-                                  cursorText: "COMING SOON",
+                                  projectUrl: "https://medium.com/@harinirajeshwararao/interactive-ar-learning-companion-89cc0dd4a167",
+                                  // cursorText: "COMING SOON",
                                 },
                                 {
                                   id: 2,
@@ -1448,8 +1448,8 @@
                                   mobileprojectThumb:
                                     "/img/mob-plantastic.webp",
                                   projectUrl:
-                                    "#!",
-                                    cursorText: "COMING SOON",
+                                    "https://medium.com/@harinirajeshwararao/phonepe-budget-pro-07d2aaa06eab",
+                                    // cursorText: "COMING SOON",
                                 },
                                 {
                                   id: 3,
