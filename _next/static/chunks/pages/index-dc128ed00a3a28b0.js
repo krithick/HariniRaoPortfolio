@@ -1108,14 +1108,14 @@
                                 children: (0, s.jsx)("div", {
                                   className:
                                     "relative h-[500px] max-h-[500px] overflow-hidden md:h-full",
-                                  children: (0, s.jsx)("video", {
-                                    onMouseEnter: o,
-                                    onMouseLeave: d,
-                                    ref: i,
-                                    loop: !0,
-                                    playsInline: !0,
-                                    muted: !0,
-                                    src: "/video/sanni-sahil-1.mp4",
+                                  children: (0, s.jsx)("img", {
+                                    // onMouseEnter: o,
+                                    // onMouseLeave: d,
+                                    // ref: i,
+                                    // loop: !0,
+                                    // playsInline: !0,
+                                    // muted: !0,
+                                    src: "/img/FirstPage.jpeg",
                                     className:
                                       "h-full w-full object-cover object-left",
                                   }),
@@ -1141,17 +1141,17 @@
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "Harini Rao",
+                                    children: "HARINI RAO",
                                   }),
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "Harini Rao",
+                                    children: "HARINI RAO",
                                   }),
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "Harini Rao",
+                                    children: "HARINI RAO",
                                   }),
                                 ],
                               }),
@@ -1163,17 +1163,17 @@
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "Harini Rao",
+                                    children: "HARINI RAO",
                                   }),
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "Harini Rao",
+                                    children: "HARINI RAO",
                                   }),
                                   (0, s.jsx)("p", {
                                     className:
                                       "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
-                                    children: "Harini Rao",
+                                    children: "HARINI RAO",
                                   }),
                                 ],
                               }),
@@ -1696,11 +1696,11 @@
                               children: (0, s.jsx)("div", {
                                 className: "h-full w-full overflow-hidden",
                                 children: (0, s.jsx)("img", {
-                                  src: "/img/me_2 _final.webp",
+                                  src: "/img/Second.png",
                                   
                                   // src: "/img/me_2.jpeg",
                                   className:
-                                    "scale-img h-full w-80 object-cover",// CHANGING THEIMAGE 
+                                    "scale-img h-full w-full object-cover",// CHANGING THEIMAGE 
                                   alt: "",
                                 }),
                               }),
