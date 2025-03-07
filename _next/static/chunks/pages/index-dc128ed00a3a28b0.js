@@ -1104,10 +1104,10 @@
                               }),
                               (0, s.jsx)("div", {
                                 className:
-                                  "hero-img flex w-full items-center bg-[#101010] md:w-1/3 md:pl-3",
+                                  "hero-img flex w-full items-center bg-[#101010] md:w-1/3 ",
                                 children: (0, s.jsx)("div", {
                                   className:
-                                    "relative h-[500px] max-h-[500px] overflow-hidden md:h-full",
+                                    "relative h-[500px]  overflow-hidden md:h-full",
                                   children: (0, s.jsx)("img", {
                                     // onMouseEnter: o,
                                     // onMouseLeave: d,
@@ -1115,7 +1115,7 @@
                                     // loop: !0,
                                     // playsInline: !0,
                                     // muted: !0,
-                                    src: "/img/FirstPage.jpeg",
+                                    src: "/img/f.jpeg",
                                     className:
                                       "h-full w-full object-cover object-left",
                                   }),
