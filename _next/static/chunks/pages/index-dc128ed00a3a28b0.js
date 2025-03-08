@@ -1115,7 +1115,7 @@
                                     // loop: !0,
                                     // playsInline: !0,
                                     // muted: !0,
-                                    src: "/img/mask.png",
+                                    src: "/img/Mask.png",
                                     className:
                                       "h-full w-full object-cover object-left",
                                   }),
