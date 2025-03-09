@@ -956,14 +956,14 @@
                                           children: "Interaction Designer",
                                         }),
                                       }),
-                                      (0, s.jsx)("div", {
-                                        className:
-                                          " absolute right-0 top-0 left-0 w-full text-right",
-                                        children: (0, s.jsx)("span", {
-                                          className: "top-anim-chars uppercase",
-                                          children: "Ol\xe1",
-                                        }),
-                                      }),
+                                      // (0, s.jsx)("div", {
+                                      //   className:
+                                      //     " absolute right-0 top-0 left-0 w-full text-right",
+                                      //   children: (0, s.jsx)("span", {
+                                      //     className: "top-anim-chars uppercase",
+                                      //     children: "Ol\xe1",
+                                      //   }),
+                                      // }),
                                     ],
                                   }),
                                 ],
@@ -1678,7 +1678,7 @@
                                     "parallax-text-right w-full md:w-3/4",
                                   children: (0, s.jsx)("p", {
                                     children:
-                                      "My approach centers around problem-solving through interactive design. I believe that effective design goes beyond aesthetics and should seamlessly address the unique challenges faced by each client. By combining functionality with visual appeal, I strive to create interactive designs that not only catch the eye but also engage users in meaningful ways.",
+                                      "I'm a results-driven UX professional with 5 years of experience specializing in Interaction Design, HCI and user-centric design. My work spans fintech, large-scale digital transformation, ed-tech, and FMCG. I hold an MSc in Digital Design (Immersive Mixed Reality) from Brunel University London, where I focused on UX for XR and the integration of XR with GenAI. Leading to the development of immersive educational experiences like the Interactive AR Learning Companion and tools for overcoming speaking anxiety, such as SpeakProVR.",
                                   }),
                                 }),
                                 (0, s.jsx)("div", {
@@ -1686,7 +1686,7 @@
                                     "parallax-text-left ml-auto w-full md:w-2/3",
                                   children: (0, s.jsx)("p", {
                                     children:
-                                      "My expertise extends to the design direction realm, where I leverage my creative vision and storytelling skills to enhance brands' visual identities. From developing cohesive brand guidelines to crafting captivating visuals, I collaborate closely with clients to ensure their unique personality and values shine through in every element.",
+                                      "Driven by intellectual curiosity, I continuously explore HCI principles to better understand how humans interact with systems. Whether leading research-informed UX strategies or collaborating with cross-functional teams, I am committed to putting users at the heart of every design decision. I thrive on solving complex problems and pushing the boundaries of design to bring value to the user and the business.",
                                   }),
                                 }),
                               ],
@@ -1714,34 +1714,34 @@
                         children: [
                           {
                             id: 0,
-                            socialName: "Dribbble",
-                            socialIcon: "/img/dribbble.png",
-                            socialUrl: "https://dribbble.com/UNTYE",
+                            socialName: "LINKEDIN",
+                            socialIcon: "/img/linkedin.png",
+                            socialUrl: "https://www.linkedin.com/in/harini-rajeshwara-rao-5089121b3/",
                           },
                           {
                             id: 1,
-                            socialName: "Behance",
+                            socialName: "MEDIUM",
                             socialIcon: "/img/behance.png",
-                            socialUrl: "https://www.behance.net/UNTYE",
+                            socialUrl: "https://medium.com/@harinirajeshwararao",
                           },
                           {
                             id: 2,
-                            socialName: "Instagram",
+                            socialName: "FIGMA",
                             socialIcon: "/img/instagram.svg",
-                            socialUrl: "https://www.instagram.com/UNTYE",
+                            socialUrl: "https://figma.com/@harinirao",
                           },
                           {
                             id: 3,
-                            socialName: "Linkedin",
+                            socialName: "GUM ROAD",
                             socialIcon: "/img/linkedin.png",
                             socialUrl:
-                              "https://www.linkedin.com/in/sanni-sahil-274b19a3/",
+                              "https://harinirajeshwara.gumroad.com/l/otidfp",
                           },
                           {
                             id: 4,
-                            socialName: "Twitter",
+                            socialName: "BEEHIIV",
                             socialIcon: "/img/twitter.svg",
-                            socialUrl: "https://twitter.com/UNTYE",
+                            socialUrl: "https://untyebyharini.beehiiv.com/",
                           },
                         ].map((e) => {
                           let {
@@ -1758,7 +1758,7 @@
                                 "px-3 text-20 font-medium xl:px-4 xl:text-32",
                               children: (0, s.jsxs)("div", {
                                 className:
-                                  "anchor-animation relative inline-flex overflow-hidden text-center uppercase",
+                                  "anchor-animation relative inline-flex overflow-hidden text-center uppercase text-green",
                                 children: [
                                   (0, s.jsx)("div", { children: i }),
                                   (0, s.jsx)("div", {
@@ -1832,15 +1832,15 @@
                                         className:
                                           "mb-4 text-14 font-medium uppercase md:text-20",
                                         children:
-                                          "Got a project that's so cool, it could make an iceberg crack a smile? Let's grab a virtual brainstorm session and make it even cooler!",
+                                          "Curious to explore UX over a coffee? Or dive into XR and AI to see where ideas can lead? Let’s have a conversation—who knows, it might just turn into something exciting.",
                                       }),
                                       (0, s.jsx)(h.Z, {
-                                        href: "mailto:UNTYE02@gmail.com",
+                                        href: "https://calendly.com/harinirajeshwararao/30min",
                                         boxButton: !0,
                                         greenButton: !0,
                                         arrow: !0,
                                         arrowColor: "#fff",
-                                        children: "Shoot me an email",
+                                        children: "Schedule A Meeting",
                                       }),
                                     ],
                                   }),
@@ -1868,7 +1868,7 @@
                                           children: [
                                             "Thanks for dropping by! ",
                                             (0, s.jsx)("br", {}),
-                                            "Stay connected and join me on my thrilling journey by exploring my network. Together, we'll embark on exciting new adventures!",
+                                            "Let’s stay connected—join me as I navigate the intersections of UX, XR, and AI, exploring new ideas and unraveling the intricacies of design.",
                                           ],
                                         }),
                                         (0, s.jsxs)("div", {
@@ -1876,43 +1876,43 @@
                                             "social-links social-link-alt flex flex-wrap gap-x-3 pt-4 md:gap-4",
                                           children: [
                                             (0, s.jsx)("a", {
-                                              href: "https://dribbble.com/UNTYE",
+                                              href: "https://www.linkedin.com/in/harini-rajeshwara-rao-5089121b3/",
                                               className:
                                                 " text-20 font-medium md:text-14",
                                               children: (0, s.jsx)(p.Z, {
-                                                children: "Dribbble",
+                                                children: "LINKEDIN",
                                               }),
                                             }),
                                             (0, s.jsx)("a", {
-                                              href: "https://www.behance.net/UNTYE",
+                                              href: "https://medium.com/@harinirajeshwararao",
                                               className:
                                                 " text-20 font-medium md:text-14",
                                               children: (0, s.jsx)(p.Z, {
-                                                children: "Behance",
+                                                children: "MEDIUM",
                                               }),
                                             }),
                                             (0, s.jsx)("a", {
-                                              href: "https://www.instagram.com/sannisahil",
+                                              href: "https://figma.com/@harinirao",
                                               className:
                                                 " text-20 font-medium md:text-14",
                                               children: (0, s.jsx)(p.Z, {
-                                                children: "Instagram",
+                                                children: "FIGMA",
                                               }),
                                             }),
                                             (0, s.jsx)("a", {
-                                              href: "https://www.linkedin.com/in/sanni-sahil-274b19a3/",
+                                              href: "https://harinirajeshwara.gumroad.com/l/otidfp",
                                               className:
                                                 " text-20 font-medium md:text-14",
                                               children: (0, s.jsx)(p.Z, {
-                                                children: "Linkedin",
+                                                children: "GUM ROAD",
                                               }),
                                             }),
                                             (0, s.jsx)("a", {
-                                              href: "https://twitter.com/SanniSahil",
+                                              href: " https://untyebyharini.beehiiv.com/",
                                               className:
                                                 " text-20 font-medium md:text-14",
                                               children: (0, s.jsx)(p.Z, {
-                                                children: "Twitter",
+                                                children: "BEEHIIV",
                                               }),
                                             }),
                                           ],

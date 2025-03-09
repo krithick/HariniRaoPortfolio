@@ -507,11 +507,11 @@
                       className:
                         "fixed top-1/2 right-0 z-50 -translate-y-1/2 p-0",
                       children: (0, r.jsx)("a", {
-                        href: "https://medium.com/@harinirajeshwararao",
+                        href: "https://untyebyharini.beehiiv.com/",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, r.jsx)("img", {
-                          src: "/img/icons8-medium-256.svg",  // URL of Medium logo
+                          src: "/img/Untye.png",  // URL of Medium logo
                           alt: "Medium Logo",
                           width: "53.08",
                           height: "171.358",
