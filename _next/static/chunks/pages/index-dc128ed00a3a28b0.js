@@ -918,6 +918,7 @@
                                   (0, s.jsx)("p", {
                                     className:
                                       "mb-0 hidden flex-1 text-12 text-green md:block md:text-14",
+                                      style: { display: "none" },
                                     // children: "Me #01",
                                   }),
                                   (0, s.jsxs)("div", {
