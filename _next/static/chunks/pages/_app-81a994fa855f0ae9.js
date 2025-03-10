@@ -8282,10 +8282,10 @@
             });
           }, []),
           (0, n.useEffect)(() => {
-            console.log(
-              "%c \uD83D\uDC4B Greetings, My Friend! Looks like you are trying to venture into the depths of this website. Meet me here [www.linkedin.com/in/akashranjan274] and I shall lead you to a amazing website that you seek. \uD83D\uDE80",
-              "background: #04a001; color: #fff; display: inline-block; padding:10px"
-            );
+            // console.log(
+            //   "%c \uD83D\uDC4B Greetings, My Friend! Looks like you are trying to venture into the depths of this website. Meet me here [www.linkedin.com/in/akashranjan274] and I shall lead you to a amazing website that you seek. \uD83D\uDE80",
+            //   "background: #04a001; color: #fff; display: inline-block; padding:10px"
+            // );
           }, []),
           (0, i.jsx)(F, {
             mode: "wait",

@@ -238,7 +238,7 @@
                         href: "/",
                         className: "text-16 font-medium uppercase",
                         children: [
-                          (0, r.jsx)(o.Z, { children: "Harini Rao" }),
+                          (0, r.jsx)(o.Z, { children: "Har" }),
                           (0, r.jsx)("sup", { children: "\xa9" }),
                         ],
                       }),
@@ -329,7 +329,7 @@
                                       className:
                                         "text-16 font-medium uppercase",
                                       children: [
-                                        (0, r.jsx)(o.Z, { children: "Harini Rao" }),
+                                        (0, r.jsx)(o.Z, { children: "Harini Rajeshwara Rao" }),///hover
                                         (0, r.jsx)("sup", { children: "\xa9" }),
                                       ],
                                     }),

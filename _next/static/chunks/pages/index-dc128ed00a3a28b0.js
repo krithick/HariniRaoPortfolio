@@ -899,15 +899,15 @@
                                   children: [
                                     (0, s.jsx)("span", {
                                       className:
-                                        "block duration-500 ease-out group-hover:-translate-y-full invisible" ,//invisible product 
-                                      // children: "Product Designer",
-                                      children: "H",
+                                        "block duration-500 ease-out group-hover:-translate-y-full " ,//invisible product 
+                                      children: "Product Designer",
+                                      // children: "H",
                                     }),
                                     (0, s.jsx)("span", {
                                       className:
                                         "absolute top-0 left-0 translate-y-full text-green duration-500 ease-out group-hover:translate-y-0",
                                       // children: "UX Bootcamp Collective Writer",
-                                      // children: "Self Acclaimed",UX Bootcamp Collective Writer
+                                      children: "UX Bootcamp Collective Writer"//,
                                     }),
                                   ],
                                 }),
@@ -1056,10 +1056,11 @@
                                       "div",
                                       {
                                         className:
-                                          "hide-cursor pseudo-bottom-border relative p-2 md:p-4",
+                                          " pseudo-bottom-border relative p-2 md:p-4",
+                                          // "hide-cursor pseudo-bottom-border relative p-2 md:p-4",
                                         "data-selected": t === x,
-                                        onPointerEnter: () => j(t),
-                                        onPointerLeave: v,
+                                        // onPointerEnter: () => j(t),
+                                        // onPointerLeave: v,
                                         children: (0, s.jsx)("h2", {
                                           className:
                                             "skill-text mb-0 text-24 font-medium uppercase md:text-32",
@@ -1327,11 +1328,11 @@
                                 children: [
                                   (0, s.jsxs)("h2", {
                                     className:
-                                      "parallax-heading-1 mb-4 text-32 font-medium uppercase leading-[120%] md:mb-[150px] md:text-64 md:leading-[72px]",
+                                      "parallax-heading-1 mb-4 text-30 font-medium uppercase leading-[120%] md:mb-[150px] md:text-64 md:leading-[72px]",
                                     children: [
-                                      " Hello, ",
-                                      (0, s.jsx)("br", {}),
-                                      "I'm ",
+                                      " Hello, I'm  ",
+                                      // (0, s.jsx)("br", {}),
+                                      // "I'm ",
                                       (0, s.jsx)("span", {
                                         className: "text-green",
                                         children: "Harini Rajeshwara Rao",// main name
@@ -1342,7 +1343,7 @@
                                     className:
                                       "parallax-text text-18 font-medium uppercase md:text-24",
                                     children:
-                                      "I began my career as a web copywriter,but it wasn’t long before I discovered my true calling in UX design.Over the past 5 years,I’ve dedicated each day to deepening my understanding of design,human perception and behavior. Ensuring every touchpoint is functional and brings value to the user is my constant intellectual stimulation.",
+                                      "I began as a copywriter but found my calling in UX design, crafting user-focused experiences.",
                                   }),
                                 ],
                               }),
