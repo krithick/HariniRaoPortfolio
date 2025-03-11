@@ -1718,7 +1718,7 @@ main {
 
 .button:hover {
     --tw-text-opacity: 1;
-    color: rgb(4 179 0/var(--tw-text-opacity))
+    color: #6f1124;
 }
 
 .button.button-secondary {

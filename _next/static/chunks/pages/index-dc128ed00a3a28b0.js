@@ -905,9 +905,9 @@
                                     }),
                                     (0, s.jsx)("span", {
                                       className:
-                                        "absolute top-0 left-0 translate-y-full text-green duration-500 ease-out group-hover:translate-y-0",
+                                        "absolute top-0 left-0 translate-y-full  duration-500 ease-out group-hover:translate-y-0",
                                       // children: "UX Bootcamp Collective Writer",
-                                      children: "UX Bootcamp Collective Writer"//,
+                                      children: "UX Collective Bootcamp Writer"//,
                                     }),
                                   ],
                                 }),
