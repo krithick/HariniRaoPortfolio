@@ -974,7 +974,6 @@
                         }),
                       }),
                       (0, s.jsxs)("div", {
-                        style: { width: "100vw" },
                         className: "relative flex-1",
                         children: [
                           (0, s.jsx)("div", {
@@ -997,7 +996,7 @@
                                       className:
                                         "skill-para mb-0 md:max-w-[70%]",
                                       children:
-                                        "UX Designer with 6 years of experience, specializing in human-centered systems design across web, mobile, and immersive AR/VR platforms.I thrive on making products intuitive and user-friendly while driving tangible ROI for businesses",
+                                        "Product Designer with 5 years of experience in UX Design and UX Writing, specializing in user-centric design, from intuitive mobile and web apps to immersive AR/VR experiences.",
                                     }),
                                   }),
                                   (0, s.jsx)("div", {
@@ -1133,7 +1132,8 @@
                         children: (0, s.jsx)("div", {
                           className: "marquee-text-wrapper",
                           children: (0, s.jsxs)("div", {
-                            className: "relative flex w-max gap-4 whitespace-nowrap",
+                            className:
+                              "relative flex w-max gap-4 whitespace-nowrap",
                             ref: T,
                             children: [
                               (0, s.jsxs)("div", {
@@ -1141,33 +1141,40 @@
                                 className: "relative flex gap-4",
                                 children: [
                                   (0, s.jsx)("p", {
-                                    className: "marquee-text mb-0 text-48 font-medium leading-[40%] md:text-[calc((75)/1440*100vw)]",
+                                    className:
+                                      "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
                                     children: "HARINI RAO",
                                   }),
                                   (0, s.jsx)("p", {
-                                    className: "marquee-text mb-0 text-48 font-medium leading-[40%] md:text-[calc((75)/1440*100vw)]",
+                                    className:
+                                      "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
                                     children: "HARINI RAO",
                                   }),
                                   (0, s.jsx)("p", {
-                                    className: "marquee-text mb-0 text-48 font-medium leading-[40%] md:text-[calc((75)/1440*100vw)]",
+                                    className:
+                                      "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
                                     children: "HARINI RAO",
                                   }),
                                 ],
                               }),
                               (0, s.jsxs)("div", {
                                 ref: N,
-                                className: "absolute left-full top-0 flex gap-4",
+                                className:
+                                  "absolute left-full top-0 flex gap-4",
                                 children: [
                                   (0, s.jsx)("p", {
-                                    className: "marquee-text mb-0 text-48 font-medium leading-[40%] md:text-[calc((75)/1440*100vw)]",
+                                    className:
+                                      "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
                                     children: "HARINI RAO",
                                   }),
                                   (0, s.jsx)("p", {
-                                    className: "marquee-text mb-0 text-48 font-medium leading-[40%] md:text-[calc((75)/1440*100vw)]",
+                                    className:
+                                      "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
                                     children: "HARINI RAO",
                                   }),
                                   (0, s.jsx)("p", {
-                                    className: "marquee-text mb-0 text-48 font-medium leading-[40%] md:text-[calc((75)/1440*100vw)]",
+                                    className:
+                                      "marquee-text mb-0 text-96 font-medium leading-[80%] md:text-[calc((150)/1440*100vw)]",
                                     children: "HARINI RAO",
                                   }),
                                 ],
@@ -1175,14 +1182,13 @@
                             ],
                           }),
                         }),
-                        
                       }),
                     ],
                   }),
                   (0, s.jsxs)("section", {
                     id: "about",
                     className:
-                      "home-section single-section section-2 relative mt-5 flex flex-col md:mt-0 hidden",
+                      "home-section single-section section-2 relative mt-5 flex flex-col md:mt-0",
                     children: [
                       (0, s.jsx)("div", {
                         className:
@@ -1203,7 +1209,7 @@
                       }),
                       (0, s.jsxs)("div", {
                         className:
-                          "container flex flex-grow flex-wrap md:flex-nowrap hidden",
+                          "container flex flex-grow flex-wrap md:flex-nowrap",
                         children: [
                           (0, s.jsxs)("div", {
                             className:
@@ -1314,7 +1320,7 @@
                             ],
                           }),
                           (0, s.jsxs)("div", {
-                            className: "flex w-full flex-col pt-5 md:w-[48%] hidden",
+                            className: "flex w-full flex-col pt-5 md:w-[48%]",
                             children: [
                               (0, s.jsxs)("div", {
                                 className:
@@ -1674,7 +1680,7 @@
                                     "parallax-text-right w-full md:w-3/4",
                                   children: (0, s.jsx)("p", {
                                     children:
-                                      "I'm a results-driven UX professional with 6 years of experience specializing in Interaction Design, HCI and user-centric design. My work spans fintech, large-scale digital transformation, ed-tech, and FMCG. I hold an MSc in Digital Design (Immersive Mixed Reality) from Brunel University London, where I focused on UX for XR and the integration of XR with GenAI. Leading to the development of immersive educational experiences like the Interactive AR Learning Companion and tools for overcoming speaking anxiety, such as SpeakProVR.",
+                                      "I'm a results-driven UX professional with 5 years of experience specializing in Interaction Design, HCI and user-centric design. My work spans fintech, large-scale digital transformation, ed-tech, and FMCG. I hold an MSc in Digital Design (Immersive Mixed Reality) from Brunel University London, where I focused on UX for XR and the integration of XR with GenAI. Leading to the development of immersive educational experiences like the Interactive AR Learning Companion and tools for overcoming speaking anxiety, such as SpeakProVR.",
                                   }),
                                 }),
                                 (0, s.jsx)("div", {
@@ -1864,7 +1870,7 @@
                                           children: [
                                             "Thanks for dropping by! ",
                                             (0, s.jsx)("br", {}),
-                                            "Let’s stay connected- join me as I explore the intricacies of Evolving User Experience Design, Extended Reality, and Artificial Intelligence.",
+                                            "Let’s stay connected—join me as I navigate the intersections of UX, XR, and AI, exploring new ideas and unraveling the intricacies of design.",
                                           ],
                                         }),
                                         (0, s.jsxs)("div", {
