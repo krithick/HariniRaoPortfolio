@@ -900,7 +900,7 @@
                                     (0, s.jsx)("span", {
                                       className:
                                         "block duration-500 ease-out group-hover:-translate-y-full " ,//invisible product 
-                                      children: "Product Designer",
+                                      children: "UX Designer",
                                       // children: "H",
                                     }),
                                     (0, s.jsx)("span", {
@@ -996,7 +996,7 @@
                                       className:
                                         "skill-para mb-0 md:max-w-[70%]",
                                       children:
-                                        "Product Designer with 5 years of experience in UX Design and UX Writing, specializing in user-centric design, from intuitive mobile and web apps to immersive AR/VR experiences.",
+                                        "UX Designer with 6 years of experience, specializing in human-centered systems design across web, mobile, and immersive AR/VR platforms. I thrive on making products intuitive and user-friendly while driving tangible ROI for businesses.",
                                     }),
                                   }),
                                   (0, s.jsx)("div", {
@@ -1048,7 +1048,7 @@
                                     },
                                     {
                                       id: 2,
-                                      headingTitle: "UX Writing",
+                                      headingTitle: "Human-Centered AI Implementation",
                                     },
                                   ].map((e, t) => {
                                     let { headingTitle: i } = e;
@@ -1680,7 +1680,7 @@
                                     "parallax-text-right w-full md:w-3/4",
                                   children: (0, s.jsx)("p", {
                                     children:
-                                      "I'm a results-driven UX professional with 5 years of experience specializing in Interaction Design, HCI and user-centric design. My work spans fintech, large-scale digital transformation, ed-tech, and FMCG. I hold an MSc in Digital Design (Immersive Mixed Reality) from Brunel University London, where I focused on UX for XR and the integration of XR with GenAI. Leading to the development of immersive educational experiences like the Interactive AR Learning Companion and tools for overcoming speaking anxiety, such as SpeakProVR.",
+                                      "I'm a results-driven UX professional with 6 years of experience specializing in Interaction Design, HCI and user-centric design. My work spans fintech, large-scale digital transformation, ed-tech, and FMCG. I hold an MSc in Digital Design (Immersive Mixed Reality) from Brunel University London, where I focused on UX for XR and the integration of XR with GenAI. Leading to the development of immersive educational experiences like the Interactive AR Learning Companion and tools for overcoming speaking anxiety, such as SpeakProVR.",
                                   }),
                                 }),
                                 (0, s.jsx)("div", {
@@ -1870,7 +1870,7 @@
                                           children: [
                                             "Thanks for dropping by! ",
                                             (0, s.jsx)("br", {}),
-                                            "Let’s stay connected—join me as I navigate the intersections of UX, XR, and AI, exploring new ideas and unraveling the intricacies of design.",
+                                            "Let’s stay connected- join me as I explore the intricacies of Evolving User Experience Design, Extended Reality, and Artificial Intelligence.",
                                           ],
                                         }),
                                         (0, s.jsxs)("div", {
