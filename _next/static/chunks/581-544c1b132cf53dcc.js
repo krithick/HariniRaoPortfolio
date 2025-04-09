@@ -511,7 +511,7 @@
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, r.jsx)("img", {
-                          src: "/img/Untye.png",  // URL of Medium logo
+                          src: "/img/banner.jpg",  // URL of Medium logo
                           alt: "Medium Logo",
                           width: "53.08",
                           height: "171.358",
