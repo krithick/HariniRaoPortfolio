@@ -507,7 +507,7 @@
                       className:
                         "fixed top-1/2 right-0 z-50 -translate-y-1/2 p-0",
                       children: (0, r.jsx)("a", {
-                        href: "https://untyebyharini.beehiiv.com/",
+                        href: "https://untye.beehiiv.com/subscribe",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0, r.jsx)("img", {
